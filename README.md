@@ -63,11 +63,3 @@ The evaluation results indicate that the model is not only accurate but also bal
 
 ---
 
-## 👥 Team Contributors (Group 4 - LA05)
-
-| NIM | Name |
-| :--- | :--- |
-| `2602231993` | [cite_start]Christopher Parulian Marpaung [cite: 7] |
-| `2602128176` | [cite_start]Patrick Adrian Nelwan [cite: 8] |
-| `2602109832` | [cite_start]Andika Rizky Putrahutama [cite: 9] |
-| `2602146172` | [cite_start]M.Kenny Ryanta [cite: 10] |
